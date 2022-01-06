@@ -1,4 +1,4 @@
-- 👋 Hi, I am Kristen Chase - a former financial professional turned software developer. After spending nearly a decade working in investment consulting I decided to change careers and focus on something I was truly passionate about - web development. 
+Hi, I am Kristen Chase - a former financial professional turned software developer. After spending nearly a decade working in investment consulting I decided to change careers and focus on something I was truly passionate about - web development. 
  
 
 
